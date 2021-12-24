@@ -1,0 +1,56 @@
+Banfield,Social Media,Roasts,Money
+Bandy,Modern Life,Roasts,Dating
+Daley,Modern Life,Roasts,Social Media
+Saint leger,One Liners,Music,Money
+Tompson,One Liners,Politics,Satire
+Warburton,One Liners,Satire,Modern Life
+Isaac,Dating,One Liners,Surrealism
+Linderman,Celebrities,Satire,Politics
+Knighton,Surrealism,Music,Social Media
+Heckman,Satire,Money,Surrealism
+Meisinger,Children,Modern Life,Topical
+Yard,Celebrities,Social Media,Satire
+Mclaurin,Social Media,Roasts,Politics
+Funkhouser,Politics,Family,Surrealism
+Lester,Satire,Money,Family
+Pickens,Celebrities,Social Media,Children
+Haywood,Social Media,Roasts,Dating
+Hoppes,Social Media,One Liners,Family
+Gillman,Politics,Dating,Roasts
+Fithian,Celebrities,Roasts,Politics
+Herrick,Satire,Family,Social Media
+Griscom,Travel,Family,Roasts
+Flinn,Roasts,Music,Surrealism
+Geyer,Satire,Music,Celebrities
+Senior,Money,Roasts,Music
+Ridel,Music,Celebrities,Modern Life
+Laflamme,Roasts,Modern Life,Surrealism
+Munoz,Surrealism,Family,Modern Life
+Mccoll,Family,Money,Social Media
+Eberhard,Money,Surrealism,Dating
+===
+JT488,Family,Politics
+MP360,Politics,Satire
+JZ709,Family,Roasts
+OG896,Roasts,Dating
+AL302,Dating,Politics
+IP753,Social Media,Celebrities
+TQ564,Modern Life,Roasts
+MP829,Social Media,Roasts
+ZD855,Family,Money
+WY654,One Liners,Family
+PK355,Celebrities,Children
+IJ256,Social Media,Family
+CP919,Topical,Modern Life
+DS541,Celebrities,Music
+QK600,Satire,Celebrities
+FN756,Satire,Social Media
+VT986,Politics,Roasts
+AV772,Family,Satire
+UG510,Social Media,Modern Life
+PY989,Music,Satire
+OY273,Social Media,One Liners
+KC583,Surrealism,Music
+RI931,Roasts,Music
+SC235,Surrealism,Politics
+JH279,Children,Modern Life

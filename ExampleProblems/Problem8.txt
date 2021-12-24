@@ -1,0 +1,59 @@
+Streeter,Money,Family,Celebrities,Modern Life,Surrealism,Dating
+Sollars,Money,Celebrities,Surrealism,Dating,Children,Satire,Politics,Social Media
+Brisbane,Celebrities,Dating,Surrealism,Roasts,Politics,Social Media,Satire,Money,Children
+Bosarge,Surrealism,Children,Celebrities,Modern Life,Social Media,Politics,Roasts,Dating,Money
+Eslick,Celebrities,Children,Family,One Liners,Dating,Politics,Roasts,Social Media
+Zink,Surrealism,Dating,Roasts,Music,Modern Life,Family,Social Media,One Liners,Children,Celebrities
+Rushing,Money,Dating,One Liners,Celebrities,Roasts,Politics,Music,Satire,Modern Life,Children
+Pothier,Music,Children,Money,Family,Politics,Surrealism,Celebrities,Social Media,Satire,Dating
+Hedges,Children,Roasts,Celebrities,Dating,Music,Money,Politics,Surrealism,Family
+Dunlap,Social Media,Children,Surrealism,Modern Life,Money,Music,Satire,Roasts,Celebrities,Dating
+Rutten,Satire,Politics,Social Media,Money,Family,One Liners,Dating
+Kendall,Celebrities,Family,Satire,Surrealism,Roasts,One Liners
+Caughey,Surrealism,Satire,Celebrities,Politics,One Liners,Music,Social Media,Family
+Reeser,Satire,Surrealism,Family,Social Media,Dating,Celebrities,Roasts,Politics,Children,Modern Life
+Worsham,Celebrities,Money,Family,Children,Politics,Music,Dating,Satire,Modern Life
+Summitt,Satire,Social Media,Money,Music,Surrealism,Roasts,Celebrities,Politics,Dating
+Labarge,Modern Life,Politics,Money,Roasts,Satire,Music
+Onstott,Social Media,One Liners,Surrealism,Celebrities,Modern Life,Politics,Money
+Cora,Children,Politics,Surrealism,Modern Life,Family,Satire,Roasts,Money,Social Media,One Liners
+Fulp,Roasts,Surrealism,Topical,Politics,Celebrities,Music,Family,Children,Satire,Social Media
+Reeder,Family,Celebrities,Dating,Satire,Surrealism,Children,Modern Life,Money,Politics
+Fernald,One Liners,Money,Dating,Modern Life,Celebrities,Children,Politics,Music,Satire
+Vandergrift,Surrealism,Topical,Satire,Politics,Music,Observational,Modern Life
+Roff,Roasts,Modern Life,Celebrities,Family,Politics,One Liners,Surrealism,Children,Social Media,Music
+Spelman,Children,Celebrities,Family,One Liners,Roasts,Money,Music
+Matte,Roasts,Celebrities,Family,Modern Life,Politics,Satire,Money,Music,One Liners
+Peeters,Money,Music,One Liners,Politics,Celebrities,Surrealism,Modern Life,Roasts,Social Media
+Snelling,Modern Life,Dating,Politics,Children,Celebrities,Money,Roasts,One Liners,Family
+Durand,Social Media,Music,Roasts,Family,Money,Modern Life,Surrealism,Satire,Children,Dating
+Dorcas,Social Media,Modern Life,Money,Children,Music,Celebrities,Dating,Surrealism,Roasts
+Shoobridge,Modern Life,Satire,Family,Politics,One Liners,Money
+Ouzts,One Liners,Celebrities,Money,Social Media,Dating,Modern Life,Politics,Family,Surrealism
+Foote,Money,Family,Social Media,Politics,Roasts,Music,Surrealism
+===
+DW460,Children,Politics,Celebrities
+TA997,Surrealism,Satire,Family
+JG373,Money,Music,Modern Life
+ZW995,Family,Children,Celebrities
+XG360,Roasts,Surrealism,Satire
+ER675,Satire,Observational,Topical
+QV367,Money,Celebrities
+VL970,Roasts,Politics,Surrealism
+QV383,Satire,Money,Dating
+ZN912,Surrealism,Money,Family
+TS447,Satire,One Liners,Celebrities
+JT583,Roasts,Social Media,Satire
+OU329,Surrealism,Music,Politics
+QO378,Money,Children,Social Media
+OV779,Celebrities,Dating,Children
+IN935,Topical,Satire,Surrealism
+WB751,Modern Life,Children,Politics
+SZ801,Dating,Celebrities,Surrealism
+ND176,Children,Dating,Modern Life
+WA751,Celebrities,Children,Surrealism
+MY335,Surrealism,Music,Roasts
+SW753,Surrealism,Politics,Celebrities
+HJ451,Politics,Children,Money
+CJ370,Dating,Politics,Family
+AE208,Celebrities,Family,Music

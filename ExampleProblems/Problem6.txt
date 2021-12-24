@@ -1,0 +1,68 @@
+Fairbanke,Dating,Music,Social Media,One Liners
+Mattison,Children,Family,Social Media,Celebrities
+Lancashire,Celebrities,Music,One Liners,Roasts
+Moulder,Satire,Topical,Surrealism
+Bott,Satire,Celebrities,Family,Dating,Music
+Lennard,Music,Family,Dating,Modern Life
+Clift,Family,Children,One Liners,Satire,Dating
+Farrar,Children,Money,Music,Celebrities,Satire
+Crooker,Roasts,Modern Life,Satire,One Liners
+Angus,Celebrities,Surrealism,Family,Children,Roasts
+To,Roasts,Satire,Modern Life,Family,Dating
+Fruchey,Music,Politics,Dating,Roasts,Surrealism
+Creekmore,Music,Family,Dating
+Judson,Roasts,Family,Modern Life,Celebrities
+Secombe,Surrealism,Children,Family
+Mcdougall,Roasts,Music,Social Media,Children,Modern Life
+Bible,Modern Life,Satire,Money,Dating,Politics
+Haigh,Satire,Surrealism,Music
+Tarleton,One Liners,Observational,Satire
+Wehmeyer,Satire,Roasts,Celebrities,Politics
+Fleck,Politics,Dating,Family,Celebrities
+Coleman,Money,Family,Children,Celebrities
+Ferry,Satire,Family,Music,One Liners
+Coblentz,Family,Celebrities,Modern Life,Surrealism
+Stoker,Music,Celebrities,Family
+Christy,Children,Social Media,Modern Life,Family,Politics
+Winders,Celebrities,Children,Observational
+Upham,Modern Life,Social Media,Observational,Surrealism
+Wickersham,Satire,Social Media,Music,Family,Surrealism
+Guilliams,Surrealism,Roasts,Celebrities,Children
+Peel,Roasts,Social Media,Money
+Garst,Modern Life,Celebrities,Social Media
+Oatman,Roasts,Celebrities,Satire,Modern Life,One Liners
+Wardwell,Roasts,Music,Politics
+Hyman,Children,Modern Life,Money
+Trotter,Dating,Surrealism,Modern Life,Money,Satire
+Crone,Politics,Celebrities,Children,Family,Satire
+Grossman,Politics,Celebrities,Roasts,Social Media,Dating
+Bellew,Money,Children,Dating,Modern Life
+Pentecost,Children,Social Media,Celebrities
+Lyman,Observational,Celebrities,Topical,Dating
+Grimshaw,Dating,Surrealism,Celebrities,One Liners
+===
+OF244,Children,Family
+OZ370,Satire,Modern Life
+EP856,Dating,Celebrities
+VV918,Dating,Family
+CA666,Celebrities,Family
+CZ604,Politics,Music
+XI633,Satire,Observational
+BU578,Money,Family
+UP272,Surrealism,Celebrities
+GS662,Roasts,Modern Life
+DK339,Social Media,Celebrities
+EM958,Money,Dating
+LE467,Satire,Topical
+VL127,Surrealism,Topical
+JV687,Observational,Children
+CI302,Celebrities,Children
+LL497,Politics,Family
+FO267,Modern Life,Social Media
+PJ335,Music,Roasts
+OY727,Children,Dating
+CK184,Surrealism,Roasts
+SK422,One Liners,Observational
+LT984,Social Media,Family
+WT945,Celebrities,Roasts
+FF248,Children,Social Media

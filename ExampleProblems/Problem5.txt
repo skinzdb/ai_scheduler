@@ -1,0 +1,67 @@
+Schram,Modern Life,MoneyAnimals,Family
+Paisley,Politics,Topical,Dating
+Cobbs,Roasts,Modern Life,Dating
+Kuhns,Satire,Money,One Liners
+Comyn,Politics,Family,Music
+Denney,Roasts,Satire,Dating
+Junken,Dating,Children,MoneyAnimals
+Skluzacek,Dating,Surrealism,Social Media
+Briant,Family,Children,Dating
+Schooler,Satire,Dating,Social Media
+Barb,Modern Life,Politics,One Liners
+Fetterman,Family,One Liners,Money
+Yabsley,Dating,Surrealism,Family
+Mahowald,Politics,Dating,Music
+Nutt,Social Media,Dating,Children
+Rushworth,Celebrities,One Liners,Family
+Hail,Topical,Modern Life,MoneyAnimals
+Baumann,Music,Politics,Children
+Chadwell,Social Media,Politics,Travel
+Petro,Celebrities,Dating,Family
+Cypert,Roasts,Children,Money
+Doty,Family,Roasts,Modern Life
+Pfeiffer,Social Media,Dating,Music
+Blackstock,Observational,MoneyAnimals,Family
+Edison,Family,Politics,Satire
+Park,Music,Politics,Family
+Rymer,One Liners,Children,Satire
+Goldstone,Celebrities,Family,Social Media
+Beverley,Money,One Liners,Roasts
+Smyers,One Liners,Dating,Social Media
+Klein,Satire,Politics,Money
+Mcmichael,Modern Life,Social Media,Politics
+Dowler,One Liners,Satire,Children
+Staunton,Topical,Observational,Politics
+Stoddard,Modern Life,Celebrities,Social Media
+Linder,Roasts,Family,Modern Life
+Candy,Roasts,Travel,Money
+Stucky,Children,Dating,Celebrities
+Tydings,Modern Life,Politics,Satire
+Hockenberry,Roasts,Social Media,Family
+Whitby,One Liners,Family,Social Media
+===
+JN527,One Liners,Children
+BX852,Topical,Observational
+UU647,Satire,Children
+HO512,Roasts,Children
+FX453,MoneyAnimals,Family
+OO172,MoneyAnimals,Dating
+TD327,One Liners,Money
+OC550,Modern Life,MoneyAnimals
+FP569,MoneyAnimals,Topical
+KD161,Money,Roasts
+KT247,Modern Life,Celebrities
+AO714,Politics,Travel
+BT782,Family,Observational
+NA581,Satire,Money
+IQ296,Modern Life,One Liners
+AG217,One Liners,Politics
+DG936,Travel,Social Media
+RP388,Politics,Money
+CM623,Politics,Family
+JG504,Music,Family
+HN213,Children,Dating
+EG247,Social Media,Modern Life
+JY761,Family,Money
+IT328,Politics,Observational
+WO700,Celebrities,Family

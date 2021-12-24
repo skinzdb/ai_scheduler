@@ -1,0 +1,61 @@
+Kierstead,Social Media,Music,Satire,Family,Children,Modern Life,Celebrities,Surrealism
+Pare,Modern Life,Dating,One Liners,Surrealism
+Fielder,Satire,Celebrities,Surrealism,Children,One Liners,Dating,Social Media,Roasts
+Brandt,One Liners,Celebrities,Family,Money,Modern Life,Music
+Gann,Dating,Social Media,Celebrities,Modern Life,Music,One Liners
+Wiltsie,Roasts,Music,Surrealism,Children,Family,Social Media
+Barganier,Social Media,Music,Modern Life,Dating,Politics,Money,Children,Celebrities
+Cassel,Politics,Satire,Celebrities,Family,Money,Social Media,Modern Life,Roasts
+Riedy,Social Media,Satire,Children,Surrealism
+Brooker,Children,Money,Social Media,Family,One Liners,Modern Life
+Rumbaugh,Social Media,Music,Politics,Celebrities,Family,Surrealism,Roasts,Money
+Pickering,One Liners,Surrealism,Family,Modern Life,Children,Celebrities,Money,Dating
+Pierpont,Social Media,Satire,Dating,Roasts,Music,Surrealism
+Trottier,Social Media,Roasts,Money,One Liners,Family,Dating,Celebrities,Children
+Bigelow,One Liners,Celebrities,Satire,Dating,Music,Children,Modern Life
+Emerton,Surrealism,Politics,Family,Roasts,Dating,Satire,Children,Celebrities
+Va,Money,Social Media,Music,Surrealism,Dating,Family,Children
+Lakes,Roasts,Observational,MoneyAnimals,Politics,Family,Children,Satire
+Eutsler,Money,Celebrities,Social Media,Surrealism,Dating,Music,Family,Politics
+Hursh,Social Media,Music,Money,Roasts,One Liners,Surrealism,Family,Modern Life
+Ogilvie,Family,Roasts,Modern Life,Dating
+Bury,Music,Dating,Surrealism,Social Media,Modern Life,Celebrities
+Lafollette,Music,Social Media,Dating,Roasts,Children,One Liners,Satire,Money
+Tschirhart,Social Media,Roasts,Family,Politics
+Bremner,Politics,Music,Surrealism,Roasts,Social Media,Modern Life
+Colgan,Politics,Satire,Social Media,Family
+Swope,Children,Celebrities,Surrealism,One Liners,Politics,Music
+Rayle,Surrealism,One Liners,MoneyAnimals,Modern Life
+Mcclean,Satire,Family,One Liners,Celebrities,Modern Life,Music,Surrealism,Politics
+Canady,Money,One Liners,Dating,Family,Satire,Social Media,Politics,Modern Life
+Hollis,Surrealism,Children,Celebrities,Family,One Liners
+Hardigree,Travel,Surrealism,One Liners,Children
+Sanborn,Celebrities,Children,Roasts,Money,Modern Life
+Hebb,Money,Politics,Satire,Surrealism,Celebrities,Dating,Social Media,Modern Life
+Grable,Surrealism,Celebrities,Satire,Children,Social Media
+===
+QI874,Family,Modern Life
+YF625,Roasts,MoneyAnimals
+JW321,Family,Surrealism
+UZ747,Surrealism,Politics
+PB788,Surrealism,Travel
+IC281,Social Media,Music
+TI844,Observational,MoneyAnimals
+MN294,Roasts,Modern Life
+UE940,Celebrities,Social Media
+XQ546,One Liners,Surrealism
+JH834,One Liners,Dating
+VQ706,Money,Social Media
+QR834,Children,Surrealism
+EO374,Satire,Celebrities
+OB159,Children,Social Media
+IV433,Politics,Satire
+GA231,Social Media,Satire
+DQ477,Modern Life,Dating
+WH511,Social Media,Dating
+XA153,Surrealism,Roasts
+UF988,Music,Modern Life
+UD678,Children,Satire
+WB650,Celebrities,One Liners
+OJ623,One Liners,Family
+OE914,Celebrities,Surrealism

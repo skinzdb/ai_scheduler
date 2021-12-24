@@ -1,0 +1,62 @@
+Teneyck,MoneyAnimals,Celebrities,Modern Life,One Liners
+Rockett,Music,Social Media,Surrealism,Celebrities
+Lyford,Dating,Observational,Surrealism
+Echingham,Dating,Modern Life,Roasts
+Wotring,Children,Modern Life,Dating,Politics
+Kruger,Children,Money,Modern Life,Surrealism,Dating
+Luker,Music,Family,Children,Social Media
+Dyess,Politics,Satire,Dating,Roasts
+Caissie,Surrealism,Celebrities,Satire,Music
+Glines,Dating,Money,Children,Politics,One Liners
+Vos,Social Media,Satire,Celebrities,Dating,Money
+Lynds,Social Media,Celebrities,Dating,Satire
+Hanby,One Liners,Modern Life,Satire
+Hauser,Travel,Politics,Celebrities,One Liners
+Hoskins,Celebrities,Family,Social Media
+Null,Politics,Dating,Modern Life,Surrealism
+Eley,Dating,Social Media,Children,Politics,Family
+Johansson,Dating,Celebrities,Family,Children,Social Media
+Kidwell,Social Media,Money,Dating,Music,Family
+Swanner,Politics,Celebrities,Dating,Money
+Thoma,Politics,Social Media,Modern Life,Money
+Catlin,Satire,Politics,Music,Modern Life
+Helen,One Liners,Politics,Modern Life,Surrealism,Money
+Longshore,Money,Dating,Family,Modern Life
+Wertz,Children,Modern Life,Surrealism,Celebrities,Satire
+Donley,MoneyAnimals,Celebrities,Politics,Family
+Borland,Roasts,Money,Family,Modern Life
+Fountain,Celebrities,Politics,Dating
+Flippin,Family,One Liners,Social Media,Money,Celebrities
+Haston,Children,Social Media,Dating,One Liners,Politics
+Tonneman,Surrealism,Music,Modern Life,Family,Politics
+Cornett,Family,Money,Satire
+Forbes,Modern Life,Music,Family,Satire,Politics
+Baber,Surrealism,Roasts,Celebrities
+Pierre,Children,Family,Dating
+Mccaslin,Surrealism,Modern Life,Satire,Children,Roasts
+===
+VL809,MoneyAnimals,Celebrities
+MW287,Modern Life,Satire
+OB754,Social Media,Money
+TI187,One Liners,Satire
+WF823,Modern Life,MoneyAnimals
+VQ833,Surrealism,Satire
+LZ519,Modern Life,Roasts
+EM752,Family,Music
+YW605,Politics,Dating
+RC884,Money,Roasts
+GU765,Dating,Money
+EC940,Celebrities,Satire
+QI444,Politics,Celebrities
+GQ838,Children,Music
+AM404,Roasts,Celebrities
+HA989,Dating,Modern Life
+OH262,Celebrities,Surrealism
+RH294,Celebrities,Travel
+TS907,Children,Money
+YO797,Celebrities,Dating
+IP725,Surrealism,Observational
+LT267,Modern Life,Social Media
+UQ197,Social Media,Politics
+FJ772,Family,Money
+FN877,Dating,Children

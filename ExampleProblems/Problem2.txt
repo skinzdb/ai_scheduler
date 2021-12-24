@@ -1,0 +1,51 @@
+Rickey,Children,Money,Dating,Family,Satire,One Liners,Celebrities
+Hunn,Celebrities,Modern Life,Social Media,Family
+Maddocks,Politics,Celebrities,Roasts,One Liners,Music,Family,Children
+Broome,Music,Celebrities,Modern Life,Dating,Politics,Satire,Family
+Justus,Surrealism,Satire,Money,Dating,One Liners,Politics,Children,Modern Life
+Agnes,Roasts,Surrealism,Satire,One Liners,Money,Dating,Social Media,Celebrities
+Snow,Roasts,Modern Life,Family,Music,Satire,Dating
+Blodget,Children,Satire,Celebrities,Surrealism,One Liners,Family,Politics
+Goodenough,Music,Modern Life,Social Media,Family
+Chidsey,Children,Celebrities,Politics,Dating,Social Media,One Liners
+Fugate,Roasts,Surrealism,Music,Modern Life,Money
+Mark,Family,Music,Politics,Money,One Liners
+Barbre,Social Media,Satire,Politics,Children,Roasts,One Liners,Family
+Abraham,Dating,One Liners,Surrealism,Family,Modern Life,Social Media,Politics
+Dumas,Money,Social Media,Roasts,Modern Life,Surrealism,Children
+Erb,One Liners,Celebrities,Family,Satire,Surrealism,Social Media,Politics
+Joinville,Roasts,Satire,Children,Family,Money,Music
+Mosher,One Liners,Children,Dating,Satire,Roasts,Celebrities
+Blackmer,Social Media,Money,One Liners,Family,Politics
+Isenberg,Celebrities,One Liners,Roasts,Dating,Modern Life,Music
+Winget,Satire,Modern Life,Surrealism,Celebrities,One Liners,Money,Politics
+Mcpike,Surrealism,Dating,Celebrities,Music,Satire
+Pendergast,Children,Social Media,Surrealism,Music,Dating,Celebrities,Modern Life,Money
+Flynn,Celebrities,Social Media,Money,Surrealism
+Ayres,Dating,One Liners,Family,Social Media,Modern Life,Music,Money,Satire
+===
+MV384,Social Media,Celebrities
+OG854,Music,Politics
+BP652,One Liners,Celebrities
+YX288,Dating,Surrealism
+TV352,Social Media,Money
+NM214,Family,Music
+BY529,Music,Modern Life
+GF549,Celebrities,Satire
+AL269,Surrealism,Modern Life
+VY302,Celebrities,Money
+MK361,Roasts,Family
+TY748,Family,Modern Life
+WO145,Surrealism,Satire
+ME625,Satire,Modern Life
+XO109,Children,Satire
+BO474,Dating,Money
+LL150,Celebrities,Modern Life
+IV295,Children,Money
+IV857,Modern Life,Social Media
+KO785,Satire,Politics
+GL148,One Liners,Surrealism
+AH284,Politics,Social Media
+GL136,Celebrities,Surrealism
+ET825,Roasts,Satire
+AZ622,Celebrities,Roasts

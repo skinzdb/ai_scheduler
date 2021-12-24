@@ -1,0 +1,61 @@
+Blagg,Dating,Politics,Social Media
+Hornby,Social Media,Money,Music
+Mcmanus,Politics,Modern Life,Family
+Book,Roasts,Celebrities,Social Media
+Williamson,Music,Topical,Celebrities
+Athearn,Roasts,Social Media,Surrealism
+Burrough,Politics,Music,Celebrities
+Teegarden,Social Media,Dating,Surrealism
+Petro,Music,Social Media,Roasts
+Stanger,Surrealism,Roasts,Satire
+Meis,Social Media,Celebrities,Music
+Judkins,Modern Life,Politics,Celebrities
+Huntley,Roasts,Social Media,Family
+Rawlins,MoneyAnimals,Topical,Music
+Sives,Celebrities,Family,Dating
+Carr,Social Media,Celebrities,Dating
+Bullen,Celebrities,Social Media,Satire
+Loon,Children,One Liners,Music
+Law,Politics,Social Media,Family
+Hatton,Money,Dating,Social Media
+Mikesell,Roasts,One Liners,Social Media
+Winfield,Politics,Celebrities,One Liners
+Bee,One Liners,Children,Music
+Laberge,Surrealism,Celebrities,Modern Life
+Whiteside,Money,Politics,Surrealism
+Greening,Children,Family,Modern Life
+Michie,Politics,Dating,Roasts
+Tompson,Modern Life,Family,Celebrities
+Mcmasters,One Liners,Family,Social Media
+Steeves,Modern Life,Money,Roasts
+Everest,One Liners,Money,Family
+Doiron,Roasts,Celebrities,Family
+Tesch,Social Media,Politics,Family
+Bidewell,Satire,Family,Money
+Carle,Celebrities,Satire,Surrealism
+===
+QC241,Roasts,Modern Life
+QL360,Modern Life,Family
+LA187,Money,Modern Life
+YA881,Politics,Celebrities
+OZ772,Social Media,Music
+PI561,Celebrities,Roasts
+SJ471,Satire,Roasts
+QL167,Dating,Surrealism
+HH153,Surrealism,Roasts
+DA644,Topical,Music
+RD741,Family,Dating
+DA738,Celebrities,Family
+LR568,Roasts,Social Media
+SO642,Children,Family
+ZL510,Dating,Social Media
+PD768,Social Media,Surrealism
+DN653,Roasts,One Liners
+ZE459,Social Media,One Liners
+FN414,Music,MoneyAnimals
+FT828,Politics,Social Media
+RB268,One Liners,Celebrities
+LX183,Celebrities,Satire
+BQ947,Celebrities,Music
+PX437,Politics,Family
+SN799,Surrealism,Celebrities
