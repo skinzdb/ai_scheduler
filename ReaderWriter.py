@@ -35,6 +35,8 @@ class ReaderWriter:
 							topics.append(line[i])
 						demo = demographic.Demographic(reference=line[0], topics=topics)
 						demographic_List.append(demo)
+						if len(demographic_List) == 25:
+							break
 
 		#returns a list of comedian and demographic objects
 		return [comedian_List, demographic_List]
